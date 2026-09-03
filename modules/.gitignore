@@ -1,0 +1,29 @@
+# Virtual Environment
+
+KGL/
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Environment Variables
+.env
+
+# Vector Database
+vector_db/
+
+# Uploaded Documents
+uploads/
+
+# Reports
+reports/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
